@@ -1,5 +1,8 @@
 
 # Text file for storing useful links:
+
+https://robin-stocks.readthedocs.io/en/latest/
+
 Robinstock git:
 https://github.com/jmfernandes/robin_stocks?tab=readme-ov-file
 
