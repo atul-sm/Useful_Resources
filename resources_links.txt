@@ -1,0 +1,7 @@
+# Text file for storing useful links:
+Robinstock git:
+https://github.com/jmfernandes/robin_stocks?tab=readme-ov-file
+
+https://github.com/jmfernandes/robin_stocks/blob/master/Robinhood.rst
+https://github.com/jmfernandes/robin_stocks/blob/master/gemini.rst
+https://github.com/jmfernandes/robin_stocks/blob/master/tda.rst
